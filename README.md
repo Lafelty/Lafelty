@@ -1,5 +1,8 @@
 ## Hi there 👋
 
+I'm new to coding.
+I'm interested in Linux and Competitive Programming.
+I'm open to suggestions.✨
 <!--
 **Lafelty/Lafelty** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
